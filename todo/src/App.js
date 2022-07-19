@@ -1,3 +1,4 @@
+//all the stuff (components) that will be used in index.js
 import React, { useState,useEffect } from "react";
 import './App.css';
 //Import the components created
@@ -74,4 +75,5 @@ function App() {
   );
 }
 
+//need to export the app at the end
 export default App;
